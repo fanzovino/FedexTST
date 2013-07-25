@@ -12,6 +12,7 @@ public class MessageRunner {
 		ApplicationContext ctx = new ClassPathXmlApplicationContext("/aplication-context-tst.xml");
 		
 		System.out.print("Esto es una modificacion");
+		System.out.print("Esto es una modificacion para el BranchesF1");
 		Message msg = (Message) ctx.getBean("message");
 		
 
