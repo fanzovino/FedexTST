@@ -2,7 +2,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 
-public class MessageRunner {
+public class MessageRunnerRR {
 
 	/**
 	 * @param args
