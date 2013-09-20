@@ -2,7 +2,7 @@ package chapter1;
 
 public class DefaultMessageB {
 	
-	private String message = " Esto es Spring Madafacka!!!";
+	private String message = " Esto esng Madafacka!!!";
 	private String message = " Probaaasdassng GIT";
 
 
