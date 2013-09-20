@@ -1,7 +1,9 @@
 package chapter1;
 
 public class DefaultMessage {
+	
 	private String message = " Esto es Spring Madafacka!!!";
+	private String message = " Probando el string GIT";
 
 
 	public void setMessage(String message) {
@@ -11,6 +13,7 @@ public class DefaultMessage {
 	public String getMessage() {
 		return message;
 	}
+	
 	
 
 }
